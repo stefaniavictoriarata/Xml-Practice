@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Students>
+     <Student>
+         <Name>Valentin Alexe</Name>
+         <Id>399</Id>
+         <Integralist>NO</Integralist>
+     </Student>   
+     <Student>
+         <Name>Stefania Rata</Name>
+         <Id>567</Id>
+         <Integralist>YES</Integralist>
+     </Student> 
+     <Student>
+         <Name>Catalin Stefan</Name>
+         <Id>366</Id>
+         <Integralist>YES</Integralist>
+     </Student> 
+</Students>
