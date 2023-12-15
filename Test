@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Schools>
+	<School>
+		<schoolName>Valentin Alexe</schoolName>
+		<noOfPupils>399</noOfPupils>
+		<schoolType>NO</schoolType>
+		<schoolOpeningDate>12-03-2002</schoolOpeningDate>
+	</School>
+	<School>
+		<schoolName>Valentin Alexe</schoolName>
+		<noOfPupils>399</noOfPupils>
+		<schoolType>NO</schoolType>
+		<schoolOpeningDate>12-03-2002</schoolOpeningDate>
+	</School>
+	<School>
+		<schoolName>Valentin Alexe</schoolName>
+		<noOfPupils>399</noOfPupils>
+		<schoolType>NO</schoolType>
+		<schoolOpeningDate>12-03-2002</schoolOpeningDate>
+	</School>
+	<School>
+		<schoolName>Valentin Alexe</schoolName>
+		<noOfPupils>399</noOfPupils>
+		<schoolType>NO</schoolType>
+		<schoolOpeningDate>12-03-2002</schoolOpeningDate>
+	</School>
+</Schools>
