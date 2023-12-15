@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Schools>
+     <School>
+         <schoolName>Ion Creanga</schoolName>
+         <noOfPupils>399</noOfPupils>
+         <schoolType>Gimnaziala</schoolType>
+         <schoolOpeningDate>12-03-2002</schoolOpeningDate>
+     </School>   
+     <School>
+         <schoolName>Mihai Eminescu</schoolName>
+         <noOfPupils>3209</noOfPupils>
+         <schoolType>primara</schoolType>
+         <schoolOpeningDate>12-05-2010</schoolOpeningDate>
+     </School>   
+     <School>
+         <schoolName>Ion Caragiale</schoolName>
+         <noOfPupils>200</noOfPupils>
+         <schoolType>secundara</schoolType>
+         <schoolOpeningDate>23-03-2013</schoolOpeningDate>
+     </School>   
+     <School>
+         <schoolName>Nichita Stanescu</schoolName>
+         <noOfPupils>120</noOfPupils>
+         <schoolType>gimnaziala</schoolType>
+         <schoolOpeningDate>15-12-2020</schoolOpeningDate>
+     </School>   
+</Schools>
