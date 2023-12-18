@@ -1,0 +1,28 @@
+{
+  "Grocery": [
+    {
+      "name": "Salata cu ton",
+      "perishable": "true",
+      "price": "30.1",
+      "expirationDate": "12-03-2022"
+    },
+    {
+      "name": "piept pui",
+      "perishable": "true",
+      "price": "34.1",
+      "expirationDate": "23-03-2022"
+    },
+    {
+      "name": "Paste",
+      "perishable": "false",
+      "price": "12.1",
+      "expirationDate": "10-12-2021"
+    },
+    {
+      "name": "Somon",
+      "perishable": "true",
+      "price": "100.1",
+      "expirationDate": "24-10-2021"
+    }
+  ]
+}
